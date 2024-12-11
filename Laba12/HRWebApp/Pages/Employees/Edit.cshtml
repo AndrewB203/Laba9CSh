@@ -1,0 +1,38 @@
+﻿@page "{id:int}"
+@model HRWebApp.Pages.Employees.EditModel
+@using HRWebApp.Models
+
+<h1>Редактировать сотрудника</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Employee.Id" />
+    <div class="form-group">
+        <label asp-for="Employee.FirstName"></label>
+        <input asp-for="Employee.FirstName" class="form-control" />
+        <span asp-validation-for="Employee.FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.LastName"></label>
+        <input asp-for="Employee.LastName" class="form-control" />
+        <span asp-validation-for="Employee.LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.MiddleName"></label>
+        <input asp-for="Employee.MiddleName" class="form-control" />
+        <span asp-validation-for="Employee.MiddleName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.DateOfBirth"></label>
+        <input asp-for="Employee.DateOfBirth" class="form-control" />
+        <span asp-validation-for="Employee.DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.PositionId"></label>
+        <select asp-for="Employee.PositionId" class="form-control" asp-items="ViewBag.PositionId"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.DepartmentId"></label>
+        <select asp-for="Employee.DepartmentId" class="form-control" asp-items="ViewBag.DepartmentId"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

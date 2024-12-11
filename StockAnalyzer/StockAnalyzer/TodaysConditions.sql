@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS TodaysConditions;
+
+CREATE TABLE TodaysConditions (
+    Id SERIAL PRIMARY KEY,
+    Ticker VARCHAR(255) NOT NULL,
+    Condition VARCHAR(255) NOT NULL,
+    Date TIMESTAMP WITH TIME ZONE NOT NULL
+);

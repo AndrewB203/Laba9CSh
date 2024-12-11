@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoSQLite.Views.MainPage"
+             Title="Main Page">
+    <VerticalStackLayout Padding="20"
+                         Spacing="20"
+                         VerticalOptions="Center">
+        <Button Text="Tasks"
+                Clicked="OnTasksClicked"
+                HorizontalOptions="FillAndExpand"/>
+        <Button Text="Departments"
+                Clicked="OnDepartmentsClicked"
+                HorizontalOptions="FillAndExpand"/>
+        <Button Text="Positons"
+                Clicked="OnPositionsClicked"
+                HorizontalOptions="FillAndExpand"/>
+        <Button Text="Employee"
+                Clicked="OnEmployeesClicked"
+                HorizontalOptions="FillAndExpand"/> 
+    </VerticalStackLayout>
+</ContentPage>

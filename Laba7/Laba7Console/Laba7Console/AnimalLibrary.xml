@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimalLibrary>
+  <Class Name="Cow">
+    <Comment>A domesticated mammal known for producing milk.</Comment>
+    <Property Name="Country" Type="String" />
+    <Property Name="Name" Type="String" />
+    <Property Name="HideFromOtherAnimal" Type="Boolean" />
+    <Property Name="WhatAnimal" Type="String" />
+    <Method Name="SayHello" ReturnType="Void" />
+    <Method Name="GetClassificationAnimal" ReturnType="EClassificationAnimal" />
+    <Method Name="GetFavoriteFood" ReturnType="EFavoriteFood" />
+  </Class>
+  <Class Name="Lion">
+    <Comment>A large carnivorous feline.</Comment>
+    <Property Name="Country" Type="String" />
+    <Property Name="Name" Type="String" />
+    <Property Name="HideFromOtherAnimal" Type="Boolean" />
+    <Property Name="WhatAnimal" Type="String" />
+    <Method Name="SayHello" ReturnType="Void" />
+    <Method Name="GetClassificationAnimal" ReturnType="EClassificationAnimal" />
+    <Method Name="GetFavoriteFood" ReturnType="EFavoriteFood" />
+  </Class>
+  <Class Name="Pig">
+    <Comment>A domesticated mammal known for its omnivorous diet.</Comment>
+    <Property Name="Country" Type="String" />
+    <Property Name="Name" Type="String" />
+    <Property Name="HideFromOtherAnimal" Type="Boolean" />
+    <Property Name="WhatAnimal" Type="String" />
+    <Method Name="SayHello" ReturnType="Void" />
+    <Method Name="GetClassificationAnimal" ReturnType="EClassificationAnimal" />
+    <Method Name="GetFavoriteFood" ReturnType="EFavoriteFood" />
+  </Class>
+</AnimalLibrary>

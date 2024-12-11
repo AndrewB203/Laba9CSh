@@ -1,0 +1,14 @@
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\bin\Debug\net8.0\NorthwindClient.exe
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\bin\Debug\net8.0\NorthwindClient.deps.json
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\bin\Debug\net8.0\NorthwindClient.runtimeconfig.json
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\bin\Debug\net8.0\NorthwindClient.dll
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\bin\Debug\net8.0\NorthwindClient.pdb
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.dll
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\refint\NorthwindClient.dll
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.pdb
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\NorthwindClient.genruntimeconfig.cache
+C:\Users\bolsh\source\repos\NorthwindClient\NorthwindClient\obj\Debug\net8.0\ref\NorthwindClient.dll

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapi\\hrdepartmentapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E173351A-3783-4FA5-B029-4D4BCA210203}|HRDepartmentAPI\\HRDepartmentAPI.csproj|solutionrelative:hrdepartmentapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HRDepartmentAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T10:00:48.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "HRDepartmentAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:39:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Program.cs",
+              "RelativeToolTip": "HRDepartmentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:25:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\appsettings.json",
+              "RelativeToolTip": "HRDepartmentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T07:21:36.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "HRDepartmentAPI\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:44:02.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HRDepartmentAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:20:58.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Models\\Department.cs",
+              "RelativeToolTip": "HRDepartmentAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:20:07.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HRDepartmentAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentAPI\\HRDepartmentAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "HRDepartmentAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:19:23.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

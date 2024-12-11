@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba7DeserializeConsole", "Laba7DeserializeConsole\Laba7DeserializeConsole.csproj", "{B2E70E41-BF55-494D-AF69-258A3091E5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E70E41-BF55-494D-AF69-258A3091E5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E70E41-BF55-494D-AF69-258A3091E5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E70E41-BF55-494D-AF69-258A3091E5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E70E41-BF55-494D-AF69-258A3091E5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204BD68A-47DF-49E5-BD36-35CE9206249F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\bin\Debug\net8.0\Laba4_2.exe
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\bin\Debug\net8.0\Laba4_2.deps.json
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\bin\Debug\net8.0\Laba4_2.runtimeconfig.json
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\bin\Debug\net8.0\Laba4_2.dll
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\bin\Debug\net8.0\Laba4_2.pdb
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.dll
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\refint\Laba4_2.dll
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.pdb
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\Laba4_2.genruntimeconfig.cache
+C:\Users\bolsh\source\repos\Laba4_2\Laba4_2\obj\Debug\net8.0\ref\Laba4_2.dll

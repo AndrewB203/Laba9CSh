@@ -1,0 +1,40 @@
+C:\Users\bolsh\source\repos\Новая папка\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\Новая папка\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\Новая папка\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\Новая папка\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.exe
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.deps.json
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.runtimeconfig.json
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.pdb
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.csproj.AssemblyReference.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Con.1FC62AE1.Up2Date
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\refint\Laba7Console.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.pdb
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.genruntimeconfig.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7Console\Laba7Console\obj\Debug\net8.0\ref\Laba7Console.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\refint\Laba7Console.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.pdb
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.csproj.AssemblyReference.cache
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.exe
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.deps.json
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.runtimeconfig.json
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7Console.pdb
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\bin\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Con.1FC62AE1.Up2Date
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\Laba7Console.genruntimeconfig.cache
+C:\Users\bolsh\source\repos\University\Laba7\Laba7Console\Laba7Console\obj\Debug\net8.0\ref\Laba7Console.dll

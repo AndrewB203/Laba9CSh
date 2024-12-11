@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\StockServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15792778-04B2-4DA7-994E-7C318AC49C75}|StockServer\\StockServer.csproj|c:\\users\\bolsh\\source\\repos\\stockserver\\stockserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15792778-04B2-4DA7-994E-7C318AC49C75}|StockServer\\StockServer.csproj|solutionrelative:stockserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\StockServer\\StockServer\\Program.cs",
+              "RelativeDocumentMoniker": "StockServer\\Program.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\StockServer\\StockServer\\Program.cs",
+              "RelativeToolTip": "StockServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:51:42.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

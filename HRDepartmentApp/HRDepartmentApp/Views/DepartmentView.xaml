@@ -1,0 +1,23 @@
+<!-- DepartmentView.xaml -->
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HRDepartmentApp.Views.DepartmentView"
+             Title="Departments">
+    <StackLayout>
+        <ListView x:Name="DepartmentListView" ItemsSource="{Binding Departments}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding Name}" />
+                            <Label Text="{Binding Location}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Add Department" Clicked="AddDepartment_Clicked" />
+        <Button Text="Update Department" Clicked="UpdateDepartment_Clicked" />
+        <Button Text="Delete Department" Clicked="DeleteDepartment_Clicked" />
+    </StackLayout>
+</ContentPage>

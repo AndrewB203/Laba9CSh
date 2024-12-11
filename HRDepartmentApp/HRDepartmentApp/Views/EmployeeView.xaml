@@ -1,0 +1,23 @@
+<!-- EmployeeView.xaml -->
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HRDepartmentApp.Views.EmployeeView"
+             Title="Employees">
+    <StackLayout>
+        <ListView x:Name="EmployeeListView" ItemsSource="{Binding Employees}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding FirstName}" />
+                            <Label Text="{Binding LastName}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Add Employee" Clicked="AddEmployee_Clicked" />
+        <Button Text="Update Employee" Clicked="UpdateEmployee_Clicked" />
+        <Button Text="Delete Employee" Clicked="DeleteEmployee_Clicked" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IndustrialEnterpriseApp.Pages.PositionsPage"
+             Title="Positions">
+    <StackLayout>
+        <ListView x:Name="PositionsListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding Title}" FontSize="Medium" />
+                            <Label Text="{Binding Salary}" FontSize="Small" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Add Position" Clicked="OnAddPositionClicked" />
+        <Button Text="Edit Position" Clicked="OnEditPositionClicked" />
+        <Button Text="Delete Position" Clicked="OnDeletePositionClicked" />
+    </StackLayout>
+</ContentPage>

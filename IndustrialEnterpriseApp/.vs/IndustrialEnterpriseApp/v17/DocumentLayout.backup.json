@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\departmentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\departmentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\departmentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\departmentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\employeespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\employeespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\positionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\positionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\data\\industrialenterprisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\data\\industrialenterprisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\employeespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\employeespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\industrialenterpriseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\industrialenterpriseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\industrialenterpriseapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\industrialenterpriseapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\pages\\positionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\pages\\positionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|c:\\users\\bolsh\\source\\repos\\industrialenterpriseapp\\industrialenterpriseapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E321A890-E329-4FC6-9801-D25CD3AC81A3}|IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj|solutionrelative:industrialenterpriseapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:22:58.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Models\\Department.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:15:56.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:37:59.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionService.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Services\\PositionService.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Services\\PositionService.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Services\\PositionService.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Services\\PositionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:24:06.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:32:58.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\DepartmentsPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:35:15.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:33:56.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:21:48.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:35:51.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:36:54.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\App.xaml.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:37:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Models\\Position.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:14:44.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Models\\Employee.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:16:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IndustrialEnterpriseContext.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Data\\IndustrialEnterpriseContext.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Data\\IndustrialEnterpriseContext.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Data\\IndustrialEnterpriseContext.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Data\\IndustrialEnterpriseContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:18:14.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T20:41:08.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IndustrialEnterpriseApp",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T20:41:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\EmployeesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:32:28.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:36:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IndustrialEnterpriseApp.csproj",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\IndustrialEnterpriseApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T20:09:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\AppShell.xaml",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:55:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PositionsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\Pages\\PositionsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:33:26.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\App.xaml",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\App.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\App.xaml",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:38:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "IndustrialEnterpriseApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\IndustrialEnterpriseApp\\IndustrialEnterpriseApp\\MauiProgram.cs",
+              "RelativeToolTip": "IndustrialEnterpriseApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:38:03.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

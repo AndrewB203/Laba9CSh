@@ -1,0 +1,31 @@
+﻿@page "{id:int}"
+@model HRWebApp.Pages.Employees.DeleteModel
+@using HRWebApp.Models
+
+<h1>Удалить сотрудника</h1>
+
+<h3>Вы уверены, что хотите удалить этого сотрудника?</h3>
+<div>
+    <h4>Сотрудник</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Имя</dt>
+        <dd class="col-sm-10">@Model.Employee.FirstName</dd>
+        <dt class="col-sm-2">Фамилия</dt>
+        <dd class="col-sm-10">@Model.Employee.LastName</dd>
+        <dt class="col-sm-2">Отчество</dt>
+        <dd class="col-sm-10">@Model.Employee.MiddleName</dd>
+        <dt class="col-sm-2">Дата рождения</dt>
+        <dd class="col-sm-10">@Model.Employee.DateOfBirth.ToShortDateString()</dd>
+        <dt class="col-sm-2">Должность</dt>
+        <dd class="col-sm-10">@Model.Employee.Position.Title</dd>
+        <dt class="col-sm-2">Отдел</dt>
+        <dd class="col-sm-10">@Model.Employee.Department.Name</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Employee.Id" />
+        <button type="submit" class="btn btn-danger">Удалить</button> |
+        <a asp-page="./Index">Назад к списку</a>
+    </form>
+</div>

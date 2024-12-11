@@ -1,0 +1,14 @@
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\bin\Debug\net8.0\SearchFile.exe
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\bin\Debug\net8.0\SearchFile.deps.json
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\bin\Debug\net8.0\SearchFile.runtimeconfig.json
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\bin\Debug\net8.0\SearchFile.dll
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\bin\Debug\net8.0\SearchFile.pdb
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.dll
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\refint\SearchFile.dll
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.pdb
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\SearchFile.genruntimeconfig.cache
+C:\Users\bolsh\source\repos\SearchFile\SearchFile\obj\Debug\net8.0\ref\SearchFile.dll

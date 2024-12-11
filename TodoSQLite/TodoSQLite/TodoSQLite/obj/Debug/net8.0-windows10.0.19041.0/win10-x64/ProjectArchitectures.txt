@@ -1,0 +1,1 @@
+C:\Users\bolsh\Downloads\TodoSQLite\TodoSQLite\TodoSQLite\TodoSQLite.csproj;x64

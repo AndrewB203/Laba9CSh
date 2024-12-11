@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\views\\employeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\views\\employeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\views\\departmentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\views\\departmentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\views\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\views\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\views\\departmentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\views\\departmentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|c:\\users\\bolsh\\source\\repos\\hrdepartmentapp\\hrdepartmentapp\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159564FD-79CC-49C6-8A37-C91CB0FCE5E9}|HRDepartmentApp\\HRDepartmentApp.csproj|solutionrelative:hrdepartmentapp\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:58:38.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "HRDepartmentApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:45:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeView.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\EmployeeView.xaml",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Views\\EmployeeView.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\EmployeeView.xaml",
+              "RelativeToolTip": "HRDepartmentApp\\Views\\EmployeeView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T09:00:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "HRDepartmentApp\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:59:21.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\EmployeeView.xaml.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Views\\EmployeeView.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\EmployeeView.xaml.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Views\\EmployeeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:14:11.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Models\\Employee.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:01:24.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Models\\Department.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:01:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\MauiProgram.cs",
+              "RelativeToolTip": "HRDepartmentApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:24:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:58:55.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\ViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "HRDepartmentApp\\ViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:59:51.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentView.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\DepartmentView.xaml",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Views\\DepartmentView.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\DepartmentView.xaml",
+              "RelativeToolTip": "HRDepartmentApp\\Views\\DepartmentView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T09:00:54.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\MainPage.xaml",
+              "RelativeToolTip": "HRDepartmentApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T08:41:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\DepartmentView.xaml.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Views\\DepartmentView.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Views\\DepartmentView.xaml.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Views\\DepartmentView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:13:38.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:58:25.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRDepartmentApp\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\HRDepartmentApp\\HRDepartmentApp\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "HRDepartmentApp\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:58:10.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

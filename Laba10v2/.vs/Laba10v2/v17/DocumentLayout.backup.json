@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\Laba10v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A2E6A-C9F2-4293-A00A-9DE20D0EAA0B}|Laba10v2\\Laba10v2.csproj|c:\\users\\bolsh\\source\\repos\\laba10v2\\laba10v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A2E6A-C9F2-4293-A00A-9DE20D0EAA0B}|Laba10v2\\Laba10v2.csproj|solutionrelative:laba10v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba10v2\\Laba10v2\\Program.cs",
+              "RelativeDocumentMoniker": "Laba10v2\\Program.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba10v2\\Laba10v2\\Program.cs",
+              "RelativeToolTip": "Laba10v2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:04:10.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

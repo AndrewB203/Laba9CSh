@@ -1,0 +1,14 @@
+C:\Users\bolsh\source\repos\StockClient\StockClient\bin\Debug\net8.0\StockClient.exe
+C:\Users\bolsh\source\repos\StockClient\StockClient\bin\Debug\net8.0\StockClient.deps.json
+C:\Users\bolsh\source\repos\StockClient\StockClient\bin\Debug\net8.0\StockClient.runtimeconfig.json
+C:\Users\bolsh\source\repos\StockClient\StockClient\bin\Debug\net8.0\StockClient.dll
+C:\Users\bolsh\source\repos\StockClient\StockClient\bin\Debug\net8.0\StockClient.pdb
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.dll
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\refint\StockClient.dll
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.pdb
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\StockClient.genruntimeconfig.cache
+C:\Users\bolsh\source\repos\StockClient\StockClient\obj\Debug\net8.0\ref\StockClient.dll

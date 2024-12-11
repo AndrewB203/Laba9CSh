@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\StockClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06696AF5-71CF-466F-8F17-BAA29BFC6809}|StockClient\\StockClient.csproj|c:\\users\\bolsh\\source\\repos\\stockclient\\stockclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06696AF5-71CF-466F-8F17-BAA29BFC6809}|StockClient\\StockClient.csproj|solutionrelative:stockclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\StockClient\\StockClient\\Program.cs",
+              "RelativeDocumentMoniker": "StockClient\\Program.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\StockClient\\StockClient\\Program.cs",
+              "RelativeToolTip": "StockClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:53:48.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

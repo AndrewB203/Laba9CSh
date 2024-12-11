@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\positionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\positionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\positionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\positionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\converters\\stringconcatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\converters\\stringconcatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\departmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\departmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\employeelistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\employeelistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\employeelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\employeelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\positionlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\positionlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\positionlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\positionlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\departmentlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\departmentlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\todolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\todolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\todoitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\todoitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\todoitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\todoitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\views\\todolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\todolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\data\\todoitemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\data\\todoitemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\downloads\\todosqlite\\todosqlite\\todosqlite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Models\\Position.cs",
+              "RelativeToolTip": "TodoSQLite\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:52:55.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:59:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\MainPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T10:58:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\MauiProgram.cs",
+              "RelativeToolTip": "TodoSQLite\\MauiProgram.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:02:48.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\App.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:33:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\AppShell.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:00:41.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\AppShell.xaml",
+              "RelativeToolTip": "TodoSQLite\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T10:11:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PositionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\PositionPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\PositionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T11:26:48.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PositionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\PositionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\PositionPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:27:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringConcatConverter.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Converters\\StringConcatConverter.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Converters\\StringConcatConverter.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Converters\\StringConcatConverter.cs",
+              "RelativeToolTip": "TodoSQLite\\Converters\\StringConcatConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:31:59.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeePage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeePage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\EmployeePage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeePage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\EmployeePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T11:27:39.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeePage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\EmployeePage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeePage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\EmployeePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:29:01.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T11:24:43.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeeListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\EmployeeListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeeListPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\EmployeeListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:23:50.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeeListPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\EmployeeListPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\EmployeeListPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\EmployeeListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T11:23:32.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PositionListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\PositionListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionListPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\PositionListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:21:29.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PositionListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionListPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\PositionListPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\PositionListPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\PositionListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T11:21:19.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:52:44.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwCgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:46:05.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\TodoListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoListPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\TodoListPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:15:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T10:45:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TodoItemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoItemPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\TodoItemPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoItemPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\TodoItemPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T10:10:53.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Constants.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Constants.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Constants.cs",
+              "RelativeToolTip": "TodoSQLite\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:02:39.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TodoItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\TodoItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoItemPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\TodoItemPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:47:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TodoListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoListPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\TodoListPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Views\\TodoListPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\TodoListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T10:12:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoSQLite\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:10:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TodoItemDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "RelativeToolTip": "TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:10:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\App.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\App.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\Downloads\\TodoSQLite\\TodoSQLite\\TodoSQLite\\App.xaml",
+              "RelativeToolTip": "TodoSQLite\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T10:11:10.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\views\\departmentlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\data\\todoitemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\data\\todoitemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\repositories\\positionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\repositories\\positionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\views\\departmentlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|c:\\users\\bolsh\\source\\repos\\laba14\\todosqlite \u2014 \u043A\u043E\u043F\u0438\u044F\\todosqlite\\views\\departmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\departmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "TodoSQLite\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:49:41.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\MauiProgram.cs",
+              "RelativeToolTip": "TodoSQLite\\MauiProgram.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:10:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PositionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\PositionRepository.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Repositories\\PositionRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\PositionRepository.cs",
+              "RelativeToolTip": "TodoSQLite\\Repositories\\PositionRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:41:45.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentListPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:18:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "TodoSQLite\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:47:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\TodoItemRepository.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Repositories\\TodoItemRepository.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Repositories\\TodoItemRepository.cs",
+              "RelativeToolTip": "TodoSQLite\\Repositories\\TodoItemRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:54:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItemDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "RelativeToolTip": "TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:12:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoSQLite\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:21:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T14:39:47.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Views\\DepartmentPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\DepartmentPage.xaml",
+              "ToolTip": "C:\\Users\\bolsh\\source\\repos\\Laba14\\TodoSQLite \u2014 \u043A\u043E\u043F\u0438\u044F\\TodoSQLite\\Views\\DepartmentPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\DepartmentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T14:39:54.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\Laba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\Laba7.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\Laba7.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\bin\Debug\net8.0\Laba7.deps.json
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\bin\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\bin\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\refint\Laba7.dll
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\Новая папка\Laba7\Laba7\obj\Debug\net8.0\ref\Laba7.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\Laba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\Laba7.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\Laba7.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\refint\Laba7.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\NewFolder\Laba7\bin\Debug\net8.0\Laba7.deps.json
+C:\Users\bolsh\source\repos\NewFolder\Laba7\bin\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\NewFolder\Laba7\bin\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\NewFolder\Laba7\obj\Debug\net8.0\ref\Laba7.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\Laba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\Laba7.AssemblyInfoInputs.cache
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\Laba7.AssemblyInfo.cs
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\refint\Laba7.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\bin\Debug\net8.0\Laba7.deps.json
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\bin\Debug\net8.0\Laba7.dll
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\bin\Debug\net8.0\Laba7.pdb
+C:\Users\bolsh\source\repos\University\Laba7\Laba7\obj\Debug\net8.0\ref\Laba7.dll

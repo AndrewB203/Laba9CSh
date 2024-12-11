@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoSQLite.Views.DepartmentPage"
+             Title="{Binding Name}"
+             xmlns:models="clr-namespace:TodoSQLite.Models"
+             x:DataType="models:Department">
+    <ScrollView>
+        <VerticalStackLayout Padding="20"
+                             Spacing="10"
+                             VerticalOptions="StartAndExpand">
+            <Label Text="Name" />
+            <Entry Text="{Binding Name}" />
+            <Label Text="Description" />
+            <Entry Text="{Binding Description}" />
+            <Label Text="Is Active" />
+            <Switch IsToggled="{Binding IsActive}" />
+            <Button Text="Save"
+                    Clicked="OnSaveClicked" />
+            <Button Text="Delete"
+                    Clicked="OnDeleteClicked" />
+            <Button Text="Cancel"
+                    Clicked="OnCancelClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
